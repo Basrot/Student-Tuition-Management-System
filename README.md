@@ -124,7 +124,7 @@ NetBeans IDE
 XAMPP
 MySQL Server
 2️⃣ Clone Project
-git clone https://github.com/Basrot/Tuition-Fee-Management
+git clone https://github.com/Basrot/Student-Tuition-Management-System
 3️⃣ Import Database
 Open XAMPP
 Start:
